@@ -1,6 +1,6 @@
 ---
 title: "When Should You Abstract Code?"
-date: 2024-10-19T12:00:00Z
+created: 2024-10-19T12:00:00Z
 ---
 
 # Premature Abstraction: Rule Of Three
